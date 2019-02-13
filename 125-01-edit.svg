@@ -6,7 +6,7 @@
     </defs>
     <rect x="-8.5" y="-8.5" width="583.94" height="583.94" style="fill:#fff"/>
     <g style="clip-path:url(#clip-path)">
-        <rect selectBtn="true" x="49.94" y="90" width="255.9" height="387.49" style="fill:#aaa"/>
+        <rect selectBtn="true" x="49.94" y="90" width="255.9" height="387.49" style="fill:#aaa" onclick="console.log(1)"/>
         <text fill='red' x='150' y='150' style='dominant-baseline:middle;text-anchor:middle;'>
             添加图片
         </text>
