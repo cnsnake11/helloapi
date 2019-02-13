@@ -218,10 +218,12 @@
           style="fill:#333"/>
     <path d="M164.45,236a.25.25,0,0,1,.26.26.26.26,0,0,1-.26.26.26.26,0,0,1-.19-.08.25.25,0,0,1-.08-.19.25.25,0,0,1,.08-.19A.26.26,0,0,1,164.45,236Zm1-3.61-.82,3.3-.09,0,.48-3.15Z"
           style="fill:#333"/>
-    <g style="clip-path:url(#clip-path-16)">
-        <rect selectBtn="true" x="42.83" y="265.93" width="189.08" height="252" style="fill:#aaa"/>
+    <g style="clip-path:url(#clip-path-16)" selectBtn="true">
+        <rect x="42.83" y="265.93" width="189.08" height="252" style="fill:#aaa"/>
+        <image x="42.83" y="265.93" width="189.08" height="252" xlink:href='http://pic09.babytreeimg.com/contentplatform/20190213/FkPVLj4o6OkfVp9NmTp3oPCmI9ta_b.img'/>
     </g>
-    <g style="clip-path:url(#clip-path-16-2)">
-        <rect selectBtn="true" x="253.91" y="49" width="258" height="392" style="fill:#aaa"/>
+    <g style="clip-path:url(#clip-path-16-2)" selectBtn="true">
+        <rect x="253.91" y="49" width="258" height="392" style="fill:#aaa"/>
+        <image x="253.91" y="49" width="258" height="392" xlink:href='http://pic09.babytreeimg.com/contentplatform/20190213/FkPVLj4o6OkfVp9NmTp3oPCmI9ta_b.img'/>
     </g>
 </svg>
