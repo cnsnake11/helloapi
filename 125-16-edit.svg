@@ -220,7 +220,7 @@
           style="fill:#333"/>
     <g style="clip-path:url(#clip-path-16)" class="select-btn">
         <rect x="42.83" y="265.93" width="189.08" height="252" class="select-area"/>
-        <image x="42.83" y="265.93" width="189.08" height="252" xlink:href='http://pic09.babytreeimg.com/contentplatform/20190213/FkPVLj4o6OkfVp9NmTp3oPCmI9ta_b.img'/>
+        <image x="42.83" y="265.93" width="189.08" height="252" xlink:href='http://pic09.babytreeimg.com/contentplatform/20190213/FkPVLj4o6OkfVp9NmTp3oPCmI9ta_b.img' class="select-icon"/>
     </g>
     <g style="clip-path:url(#clip-path-16-2)" class="select-btn">
         <rect x="253.91" y="49" width="258" height="392" class="select-area"/>
